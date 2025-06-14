@@ -1,4 +1,4 @@
-# 学校教务管理系统(数据库加VX获取☟)
+# 学校教务管理系统(文末免费领取☟)
 
 #### 介绍
 学校教务管理系统(Java_SpringBoot)
@@ -53,9 +53,9 @@ Java + SpringBoot + Mybatis/MybatisPlus + Mysql
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js等
 
 
-## 有项目修改、安装调试需求 请联系微信
-![输入图片说明](photo/0-WeChat.png)
+## 有项目修改、安装调试需求 请联系以下
+![关注免费领](联系.png)
 
-## 其他项目定制加微☝☝☝
+## 获取资源扫☝☝☝
 
 
